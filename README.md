@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/abhishekbhanusingh2007/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/abhishekbhanusingh2007/leetcode/tree/master/0204-count-primes) |
 | [1480-running-sum-of-1d-array](https://github.com/abhishekbhanusingh2007/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/abhishekbhanusingh2007/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2553-separate-the-digits-in-an-array](https://github.com/abhishekbhanusingh2007/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Two Pointers
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/abhishekbhanusingh2007/leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/abhishekbhanusingh2007/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/abhishekbhanusingh2007/leetcode/tree/master/0263-ugly-number) |
+| [1512-number-of-good-pairs](https://github.com/abhishekbhanusingh2007/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/abhishekbhanusingh2007/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2427-number-of-common-factors](https://github.com/abhishekbhanusingh2007/leetcode/tree/master/2427-number-of-common-factors) |
 ## String
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/abhishekbhanusingh2007/leetcode/tree/master/0242-valid-anagram) |
+| [1512-number-of-good-pairs](https://github.com/abhishekbhanusingh2007/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -82,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/abhishekbhanusingh2007/leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/abhishekbhanusingh2007/leetcode/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
