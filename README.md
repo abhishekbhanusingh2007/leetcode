@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/abhishekbhanusingh2007/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/abhishekbhanusingh2007/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2553-separate-the-digits-in-an-array](https://github.com/abhishekbhanusingh2007/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3467-transform-array-by-parity](https://github.com/abhishekbhanusingh2007/leetcode/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/abhishekbhanusingh2007/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Two Pointers
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/abhishekbhanusingh2007/leetcode/tree/master/0242-valid-anagram) |
+| [3467-transform-array-by-parity](https://github.com/abhishekbhanusingh2007/leetcode/tree/master/3467-transform-array-by-parity) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -91,4 +93,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/abhishekbhanusingh2007/leetcode/tree/master/1512-number-of-good-pairs) |
+| [3467-transform-array-by-parity](https://github.com/abhishekbhanusingh2007/leetcode/tree/master/3467-transform-array-by-parity) |
 <!---LeetCode Topics End-->
