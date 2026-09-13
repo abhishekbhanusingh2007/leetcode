@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/abhishekbhanusingh2007/leetcode/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/abhishekbhanusingh2007/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/abhishekbhanusingh2007/leetcode/tree/master/0204-count-primes) |
+| [1480-running-sum-of-1d-array](https://github.com/abhishekbhanusingh2007/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/abhishekbhanusingh2007/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Two Pointers
 |  |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/abhishekbhanusingh2007/leetcode/tree/master/0242-valid-anagram) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/abhishekbhanusingh2007/leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
