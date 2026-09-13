@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/abhishekbhanusingh2007/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/abhishekbhanusingh2007/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2553-separate-the-digits-in-an-array](https://github.com/abhishekbhanusingh2007/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/abhishekbhanusingh2007/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/abhishekbhanusingh2007/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/abhishekbhanusingh2007/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2427-number-of-common-factors](https://github.com/abhishekbhanusingh2007/leetcode/tree/master/2427-number-of-common-factors) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/abhishekbhanusingh2007/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## String
 |  |
 | ------- |
